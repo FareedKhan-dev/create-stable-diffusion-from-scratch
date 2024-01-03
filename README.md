@@ -9,7 +9,7 @@ Other Projects:
 ________________________________
 
 
-![How Stable Diffusion works](https://cdn-images-1.medium.com/max/1000/1*E0m8dwGXMnCRUzPMly939Q.png)
+![How Stable Diffusion works](https://cdn-images-1.medium.com/max/1500/1*pFNOzxb0_7WkcAyK5NhMxA.png)
 
 Models checkpoints are available in `models_checkpoints` folder. You can download them and use them for inference.
 
