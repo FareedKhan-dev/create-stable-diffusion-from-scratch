@@ -11,8 +11,14 @@ ________________________________
 
 ![How Stable Diffusion works](https://cdn-images-1.medium.com/max/1000/1*E0m8dwGXMnCRUzPMly939Q.png)
 
+Models checkpoints are available in `models_checkpoints` folder. You can download them and use them for inference.
 
-
+```bash
+models_checkpoints/
+|-- ckpt.pth                  # U-net Architecture with Concatenation
+|-- ckpt_res.pth              # U-net Architecture with Addition
+|-- ckpt_transformer.pth      # U-net Architecture with Spatial Transformer
+```
 
 ## Building Stable Diffusion from Scratch Using Python
 
